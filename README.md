@@ -1,8 +1,8 @@
 # 2D Basic Inventory & UI Tooltip System
 
 A collection of UI elements with adaptive properties
-<img width="1453" height="808" alt="Demonstration inventory" src="https://github.com/user-attachments/assets/7ad0c89c-4000-4709-983f-c16abf0559bb" />
 
+https://github.com/user-attachments/assets/91af12cf-5721-44cc-b3de-4d1af1eb35bb
 
 ## Key Features
 * **Drag and Drop:** Full mouse interaction using Unity EventSystems.
